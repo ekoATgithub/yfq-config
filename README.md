@@ -1,0 +1,2 @@
+# yfq-config
+test
